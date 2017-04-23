@@ -1,0 +1,3 @@
+1. Download node from here https://nodejs.org/en/download/
+2. go into the hhbuilder directory and run this command => npm install live-server
+3. run this command => live-server
